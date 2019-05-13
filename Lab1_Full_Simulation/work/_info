@@ -1,0 +1,180 @@
+m255
+K3
+13
+cModel Technology
+dC:\ProgramData\App-V\42A7790A-E852-4FD0-A846-61FBCBD0279A\F6001447-9727-4074-B939-1C3D5BBC9B4C\Root\Quartus_II
+Ec1
+Z0 w1505957307
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dZ:\jyuan054\Desktop\CEG3155\Lab1_Full_Simulation
+Z4 8Z:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c1.vhd
+Z5 FZ:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c1.vhd
+l0
+L4
+V9<N:>Fn[`IkGWLHonNSAC1
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1505959101.801000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|Z:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c1.vhd|
+Z9 !s107 Z:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c1.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 eR_[ja[7@?_<NJ_DkdQPV3
+!i10b 1
+Ac1_estr
+R1
+R2
+DEx4 work 2 c1 0 22 9<N:>Fn[`IkGWLHonNSAC1
+l14
+L13
+VM_J^_EID0C7229[kePWRH0
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 jMK;mg;@FVen;18aXX0NQ0
+!i10b 1
+Ec2
+Z12 w1505957377
+R1
+R2
+R3
+Z13 8Z:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c2.vhd
+Z14 FZ:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c2.vhd
+l0
+L4
+V_W>1Ph[YAI1SKMgV^_R;C2
+R6
+32
+Z15 !s108 1505959102.316000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|Z:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c2.vhd|
+Z17 !s107 Z:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c2.vhd|
+R10
+R11
+!s100 M:S6kajZD@?icchASeY@f1
+!i10b 1
+Ac2_estr
+R1
+R2
+DEx4 work 2 c2 0 22 _W>1Ph[YAI1SKMgV^_R;C2
+l13
+L12
+VcXUkVQ:CO^hk23zcjH>Ua2
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 FCdIH9ASB`VDo<JB3L31>1
+!i10b 1
+Ec3
+Z18 w1505957847
+R1
+R2
+R3
+Z19 8Z:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c3.vhd
+Z20 FZ:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c3.vhd
+l0
+L4
+V;LT<A97UJFDBSG30cR?_D2
+R6
+32
+Z21 !s108 1505959102.862000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|Z:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c3.vhd|
+Z23 !s107 Z:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c3.vhd|
+R10
+R11
+!s100 >;fP>I]l1i4d2O<1E`?452
+!i10b 1
+Ac3_estr
+R1
+R2
+DEx4 work 2 c3 0 22 ;LT<A97UJFDBSG30cR?_D2
+l14
+L13
+VB?IRUdM_D4B1h[Z:LRWna0
+R6
+32
+R21
+R22
+R23
+R10
+R11
+!s100 ]8WmNG0P9XB0Y<G?aje263
+!i10b 1
+Ec4
+Z24 w1505957453
+R1
+R2
+R3
+Z25 8Z:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c4.vhd
+Z26 FZ:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c4.vhd
+l0
+L4
+ViCFlXg11T[[oGR@ec3?Wg3
+R6
+32
+Z27 !s108 1505959103.345000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|Z:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c4.vhd|
+Z29 !s107 Z:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/c4.vhd|
+R10
+R11
+!s100 06A0C1FWdPkF7om36TXS;0
+!i10b 1
+Ac4_estr
+R1
+R2
+DEx4 work 2 c4 0 22 iCFlXg11T[[oGR@ec3?Wg3
+l14
+L13
+V@5o0L3c5HldQX9`a]bmC^1
+!s100 [B8@7MTBDPbTo72^MWMAf2
+R6
+32
+R27
+R28
+R29
+R10
+R11
+!i10b 1
+Etop
+Z30 w1505959097
+R1
+R2
+R3
+Z31 8Z:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/top.vhd
+Z32 FZ:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/top.vhd
+l0
+L4
+V@e_9EJ2]YN=iXoNdWLi3B2
+!s100 D9^;Bi^:Fk2Dn4Y8h:[9E2
+R6
+32
+!i10b 1
+Z33 !s108 1505959103.876000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|Z:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/top.vhd|
+Z35 !s107 Z:/jyuan054/Desktop/CEG3155/Lab1_Full_Simulation/top.vhd|
+R10
+R11
+Atop_map
+R1
+R2
+Z36 DEx4 work 3 top 0 22 @e_9EJ2]YN=iXoNdWLi3B2
+l49
+L13
+Vdf`Sl6Uz`n32?:NRfA4AU0
+!s100 jKTVMCc0gPCINZz8_LO<S0
+R6
+32
+!i10b 1
+R33
+R34
+R35
+R10
+R11
